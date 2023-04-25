@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some Unity Games<br>👯 I’m looking to collaborate on game developers<br>🌱 I’m currently learning shader hlsl coding<br>💬 Ask me about Unity and C#
+🔭 I’m currently working on some Unity Games<br>👯 I’m looking to collaborate with game developers<br>🌱 I’m currently learning shader hlsl coding<br>💬 Ask me about Unity and C#
 
 
 ## 🌐 Socials:
